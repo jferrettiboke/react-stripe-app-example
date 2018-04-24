@@ -1,0 +1,27 @@
+{
+  "name": "react-stripe-app-example",
+  "version": "1.0.0",
+  "description": "React app example implementing Stripe Connect.",
+  "main": "index.js",
+  "repository": "https://github.com/jferrettiboke/react-stripe-app-example.git",
+  "author": "Jesús Ferretti <jferrettiboke@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "dot-object": "^1.7.0",
+    "final-form": "^4.6.1",
+    "final-form-arrays": "^1.0.4",
+    "lodash": "^4.17.5",
+    "next": "^5.1.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-dropzone": "^4.2.9",
+    "react-final-form": "^3.4.0",
+    "react-final-form-arrays": "^1.0.4"
+  }
+}
