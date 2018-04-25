@@ -15,7 +15,7 @@ If you are interested to implement Stripe Connect in your app, you should take a
 This app example will use tokens for different parts:
 
 * [x] Account tokens
-* [ ] Bank account tokens
+* [x] Bank account tokens
 * [ ] PII (Personally Identifiable Information) tokens
 
 In addition, it is a good opportunity to master and see a more complex use case about handling forms with React Final Form.
@@ -46,7 +46,7 @@ The process is very easy to understand:
 
 ### Bank account tokens
 
-TODO
+Collect bank account details as payout methods.
 
 ### PII (Personally Identifiable Information) tokens
 
