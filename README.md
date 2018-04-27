@@ -1,4 +1,6 @@
-# react-stripe-app-example
+![Home page](./home.png "Home page")
+
+# React Stripe App Example
 
 ## Description
 
@@ -12,11 +14,12 @@ If you are interested to implement Stripe Connect in your app, you should take a
 * [Security](https://stripe.com/docs/security)
 * [Tokens (API)](https://stripe.com/docs/api#tokens)
 
-This app example will use tokens for different parts:
+This app example will implement:
 
 * [x] Account tokens
 * [x] Bank account tokens
 * [ ] PII (Personally Identifiable Information) tokens
+* [ ] File uploads for identity documents
 
 In addition, it is a good opportunity to master and see a more complex use case about handling forms with React Final Form.
 
@@ -24,7 +27,7 @@ In addition, it is a good opportunity to master and see a more complex use case 
 * [x] Reusable field groups
 * [x] Array of fields (additional owners)
 * [x] Usage of different fields (input, select, etc)
-* [ ] Rendering dynamic fields
+* [x] Rendering dynamic fields (based in countries and legal entity types)
 * [ ] Validation
 
 ## More In Detail
